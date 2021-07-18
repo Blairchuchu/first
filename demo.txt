@@ -1,0 +1,6 @@
+donload file from github:
+git clone "SSH key"
+git status
+git add "file name"
+git commit -m "simple direction for git"
+git push
