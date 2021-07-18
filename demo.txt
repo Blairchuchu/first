@@ -1,4 +1,4 @@
-donload file from github:
+download file from github:
 git clone "SSH key"
 git status
 git add "file name"
